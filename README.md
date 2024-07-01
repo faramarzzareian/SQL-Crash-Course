@@ -1,4 +1,4 @@
-#   Fundamentals Crash Course
+#   SQL Fundamentals Crash Course
 
 ## A comprehensive guide to   fundamentals for beginners and intermediate users.
 ### Table of Contents
